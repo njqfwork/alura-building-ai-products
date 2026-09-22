@@ -1,0 +1,41 @@
+texto,categoria
+"A lista de tarefas demora uns 10 segundos para abrir.",Performance
+"Toda vez que filtro por responsável, a tela trava.",Performance
+"O app fica lento depois que o board passa de 200 cards.",Performance
+"Demora demais para salvar uma tarefa nova.",Performance
+"A busca leva uns 8 segundos para devolver resultado.",Performance
+"Abrir um projeto grande trava o navegador inteiro.",Performance
+"Depois da última atualização ficou bem mais lento.",Performance
+"O carregamento da home leva mais tempo que antes.",Performance
+"Melhorou a velocidade do board esta semana, obrigado.",Performance
+"Relatório de horas demora uns dois minutos para gerar.",Performance
+"Trocar de projeto trava por uns segundos toda vez.",Performance
+"A notificação chega minutos depois que a tarefa muda.",Performance
+"Não acho onde muda o responsável de uma tarefa.",Usabilidade
+"O botão de arquivar fica escondido no menu de três pontos.",Usabilidade
+"Criei uma tarefa duplicada sem perceber, não teve aviso.",Usabilidade
+"A tela de configurações tem opção demais e nenhuma explicação.",Usabilidade
+"Arrastar card no celular quase nunca funciona.",Usabilidade
+"O novo layout do board ficou muito melhor de usar.",Usabilidade
+"A sincronização com o Google Agenda parou de funcionar.",Integrações
+"O webhook para o Slack manda a mensagem duplicada.",Integrações
+"Queria integrar com o nosso CRM e não achei a opção.",Integrações
+"A importação de CSV ignora a coluna de prazo.",Integrações
+"O token da API expira e ninguém avisa.",Integrações
+"Integração com e-mail cria tarefa sem o corpo da mensagem.",Integrações
+"Fui cobrado em dobro no cartão este mês.",Cobrança
+"Cancelei um usuário e continuo pagando por ele.",Cobrança
+"A nota fiscal veio com o CNPJ errado.",Cobrança
+"O plano por usuário fica caro para time de 30 pessoas.",Cobrança
+"Não consigo trocar o cartão cadastrado.",Cobrança
+"Cobraram o upgrade antes do fim do teste gratuito.",Cobrança
+"Abri chamado há quatro dias e ninguém respondeu.",Suporte
+"O atendente pediu print de coisas que eu já tinha mandado.",Suporte
+"Suporte resolveu em vinte minutos, excelente.",Suporte
+"A central de ajuda tem artigo desatualizado sobre permissões.",Suporte
+"Só tem atendimento em inglês, meu time não acompanha.",Suporte
+"Fui transferido três vezes no chat e repeti tudo de novo.",Suporte
+"O relatório de produtividade leva mais de um minuto.",Performance
+"Exportar o board em PDF trava com muitos cards.",Performance
+"A tela de login demora a responder no começo do dia.",Performance
+"Não entendi a diferença entre marcar como concluída e arquivar.",Usabilidade
