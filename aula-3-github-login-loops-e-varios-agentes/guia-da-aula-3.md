@@ -49,7 +49,7 @@ Nestes dois blocos ninguém construiu nada. Ficam aqui em resumo, para consulta.
 | Erro caro | Errar custa tanto que vale pagar uma segunda opinião independente |
 | Etapas diferentes | Cada passo precisa de ferramentas ou informações diferentes |
 
-Se nenhum aparece no seu produto, um agente bem escrito resolve. Escreva uma linha: o seu produto precisa disso hoje? Se não, qual sinal diria que chegou a hora? Essa linha é o próximo passo da sua demonstração na Aula 4.
+Se nenhum aparece no seu produto, um agente bem escrito resolve. Escreva uma linha: o seu produto precisa disso hoje? Se não, qual sinal diria que chegou a hora? Essa linha volta no fechamento da Aula 4, na ficha que cada um leva pronta.
 
 ## Prompts
 

@@ -4,12 +4,20 @@ Prompts, modelos e exemplos das aulas do curso Building AI Products, da Alura Sk
 
 ## Como usar
 
-- Siga o [passo a passo abaixo](#o-curso-passo-a-passo). Para os detalhes de uma aula, abra o guia dela, dentro da pasta da aula: `guia-da-aula-1.md`, `guia-da-aula-2.md` e `guia-da-aula-3.md`.
+- Siga o [passo a passo abaixo](#o-curso-passo-a-passo). Para os detalhes de uma aula, abra o guia dela, dentro da pasta da aula: `guia-da-aula-1.md`, `guia-da-aula-2.md`, `guia-da-aula-3.md` e `guia-da-aula-4.md`.
 - Prefere ler tudo numa página só, com botão de copiar em cada prompt? Baixe o repositório e abra o arquivo `guia.html` no navegador.
 - Cada prompt está num arquivo próprio: uma explicação curta em cima e o texto para colar embaixo.
 - O que está entre colchetes você troca pelo seu caso. Exemplo: `[seu produto]`.
 - **Chat de IA** é o assistente que você já usa: ChatGPT, Claude, Gemini ou outro.
 - **Ferramenta de construção** é onde o app é construído. Na aula usamos o Replit. Os prompts servem para Lovable e similares: onde aparecer `replit.md`, use o arquivo de regras da sua ferramenta.
+
+## Como guardar este material
+
+Este repositório fica aberto por um tempo e depois fecha. Para não depender disso:
+
+- **Fork:** botão **Fork**, no topo da página. Cria uma cópia dentro do seu GitHub, que continua sua depois que esta sair do ar. Precisa de conta no GitHub.
+- **Download ZIP:** botão verde **Code**, depois **Download ZIP**. Baixa tudo para o seu computador, sem precisar de conta.
+- Dentro da pasta baixada, abra o `guia.html` no navegador para ler tudo numa página só.
 
 ## Três regras que valem para o curso inteiro
 
@@ -68,9 +76,21 @@ O que você faz: guarda uma cópia do código no GitHub, coloca login no produto
 
 Detalhes: [guia da Aula 3](aula-3-github-login-loops-e-varios-agentes/guia-da-aula-3.md).
 
-### Aula 4
+### Aula 4 · Avaliação, segurança, custo e entrega
 
-Entra no repositório depois da aula.
+O que você faz: dá uma nota ao seu agente, confere quatro riscos no próprio produto, descobre quanto custa cada uso e entrega o app para outra pessoa.
+
+1. **Escreva três casos** no [modelo de gabarito](aula-4-avaliacao-seguranca-custo-e-entrega/modelos/gabarito-em-branco.md): dois que você duvida que o agente acerte, e um que ele acerta hoje.
+2. **Monte a tela de avaliação:** [prompt 01](aula-4-avaliacao-seguranca-custo-e-entrega/prompts/01-avaliacao.md). Rode e anote o placar.
+3. **Corrija a ficha** olhando só as falhas, e rode de novo com os mesmos casos.
+4. **Rode os quatro testes de segurança,** um por um, seguindo a [tabela de riscos](aula-4-avaliacao-seguranca-custo-e-entrega/guia-da-aula-4.md#2-o-que-pode-dar-errado).
+5. **Feche a fresta do texto que vira ordem:** [prompt 02](aula-4-avaliacao-seguranca-custo-e-entrega/prompts/02-seguranca.md). Guarde o ataque como o quarto caso do gabarito.
+6. **Ligue o registro de custo e o limite por pessoa:** [prompt 03](aula-4-avaliacao-seguranca-custo-e-entrega/prompts/03-custo.md). Faça a conta de mil usos.
+7. **Entregue:** publique, abra numa janela anônima com uma segunda conta, confira a chave e faça o push final.
+
+**Pronto quando:** a avaliação mostra um placar, o ataque falha e fica registrado, a tela de custo mostra quanto custa um uso, e uma segunda conta abre o link publicado e vê a lista vazia.
+
+Detalhes: [guia da Aula 4](aula-4-avaliacao-seguranca-custo-e-entrega/guia-da-aula-4.md).
 
 ## O que usamos no curso
 
